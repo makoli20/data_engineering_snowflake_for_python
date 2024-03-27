@@ -1,0 +1,9 @@
+{
+  "account"   : "RQEKIYY-HR31616",
+  "user"      : "makoli",
+  "password"  : "Mahak@2020",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
+}
