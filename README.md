@@ -10,3 +10,7 @@ In this Notebook, I will focus on Data Engineering in Snowflake using Snowpark f
 * Perform Exploratory Data Analysis on Snowpark DataFrames
 * Pivot and Join data from multiple tables using Snowpark DataFrames
 * Demostrate how to automate data preparation using Snowflake Tasks
+
+## Streamlit application - 
+
+<img width="601" alt="Screenshot 2024-03-27 at 14 20 16" src="https://github.com/makoli20/data_engineering_snowflake_for_python/assets/128938502/80649937-22ff-4e73-b8ef-0b960f8d0274">
